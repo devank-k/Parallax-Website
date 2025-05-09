@@ -2,6 +2,8 @@
 
 A simple and visually engaging parallax scrolling website built using HTML, CSS, and JavaScript. This project demonstrates the use of layered backgrounds and smooth scrolling effects to create an immersive web experience.
 
+<a link href="https://devank-k.github.io/Parallax-Website/">View Link</a>
+
 ## Features
 - Multi-section layout with parallax scrolling effects  
 - Smooth transitions between sections  
